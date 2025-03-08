@@ -1,8 +1,11 @@
 **🎓 College Management System (Django)**
 
+
 **📌 Project Overview**
 
 The College Management System is a web-based application developed using Django during my Diploma Industrial Training under the guidance of my mentor. This system is designed exclusively for college administration to manage student registration, courses, attendance, staff, and notifications efficiently.
+
+
 
 **🚀 Features**
 
@@ -17,6 +20,8 @@ The College Management System is a web-based application developed using Django 
 🔔 Notifications – Important news updates for students & teachers.
 
 🗣 Feedback System – Students and teachers can submit feedback.
+
+
 
 **🛠 Tech Stack**
 
