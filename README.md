@@ -26,9 +26,14 @@ The College Management System is a web-based application developed using Django 
 **🛠 Tech Stack**
 
 Backend: Django (Python)
+
 Frontend: HTML, CSS, JavaScript (Bootstrap)
+
 Database: SQLite / MySQL
 
+
 **🔐 Admin Access**
+
 The system is restricted to college administration only.
+
 Login as an admin to access full functionalities.
