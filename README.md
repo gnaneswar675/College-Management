@@ -7,10 +7,15 @@ The College Management System is a web-based application developed using Django 
 **🚀 Features**
 
 👩‍🎓 Student Registration – Admin can add and manage student details.
+
 📚 Course Management – Assign and manage different courses.
+
 📝 Attendance Management – Track and record student attendance.
+
 👨‍🏫 Teacher & Staff Management – Manage faculty details.
+
 🔔 Notifications – Important news updates for students & teachers.
+
 🗣 Feedback System – Students and teachers can submit feedback.
 
 **🛠 Tech Stack**
